@@ -6,17 +6,17 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/juniHub/JavaGUI-robot">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Drawing Robot using Java GUI</h3>
 
   <p align="center">
     project_description
@@ -51,12 +51,11 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  
   </ol>
 </details>
 
@@ -65,19 +64,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Robot](https://res.cloudinary.com/dafolrlpj/image/upload/v1621682773/gallery/mx7ulz7bi4nktkrirpgu.png)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+
 
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [Java GUI](https://docs.oracle.com/javase/tutorial/uiswing/)
 
 
 <!-- GETTING STARTED -->
@@ -87,11 +81,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Software I am using for this project as listed below:
+* [Visual Studio Code version 1.56.2 or latest](https://code.visualstudio.com)
+* [Adopt Open JDV version 11.0.11 or latest](https://adoptopenjdk.net/index.html)
+* [Alternative option is Netbeans](https://netbeans.apache.org) which is popular framework for working with Java Code
+ 
 
 ### Installation
 
@@ -99,20 +93,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/juniHub/JavaGUI-robot.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+2. Click Run on Visual Studio Code
 
 
 <!-- ROADMAP -->
@@ -145,19 +126,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Juni Nguyen- [HelloJuniNguyen](hellojuninguyen@gmail.com)
 
 Project Link: [https://github.com/juniHub/JavaGUI-robot](https://github.com/juniHub/JavaGUI-robot)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
 
 
 
@@ -174,5 +145,4 @@ Project Link: [https://github.com/juniHub/JavaGUI-robot](https://github.com/juni
 [issues-url]: https://github.com/gjuniHub/JavaGUI-robot/issues
 [license-shield]: https://img.shields.io/github/license/juniHub/JavaGUI-robot.svg?style=for-the-badge
 [license-url]: https://github.com/juniHub/JavaGUI-robot/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/juniHub
+
