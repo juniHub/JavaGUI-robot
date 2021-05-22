@@ -124,7 +124,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Juni Nguyen- [HelloJuniNguyen](hellojuninguyen@gmail.com)
+Juni Nguyen- [hellojuninguyen@gmail.com]
 
 Project Link: [https://github.com/juniHub/JavaGUI-robot](https://github.com/juniHub/JavaGUI-robot)
 
