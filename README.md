@@ -79,7 +79,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Software I am using for this project as listed below:
+IDE I am using for this project as listed below:
 * [Visual Studio Code version 1.56.2 or latest](https://code.visualstudio.com)
 * [Adopt Open JDK version 11.0.11 or latest](https://adoptopenjdk.net/index.html)
 * [Alternative option is Netbeans](https://netbeans.apache.org) which is popular framework for working with Java Code
@@ -127,12 +127,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Juni Nguyen- [hellojuninguyen@gmail.com]
 
 Project Link: [https://github.com/juniHub/JavaGUI-robot](https://github.com/juniHub/JavaGUI-robot)
-
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juniHUb)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hellojuninguyen@gmail.com)
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
