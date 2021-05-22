@@ -24,8 +24,6 @@
     <a href="https://github.com/juniHub/JavaGUI-robot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/juniHub/JavaGUI-robot">View Demo</a>
-    ·
     <a href="https://github.com/juniHub/JavaGUI-robot/issues">Report Bug</a>
     ·
     <a href="https://github.com/juniHub/JavaGUI-robot/issues">Request Feature</a>
@@ -83,7 +81,7 @@ To get a local copy up and running follow these simple steps.
 
 Software I am using for this project as listed below:
 * [Visual Studio Code version 1.56.2 or latest](https://code.visualstudio.com)
-* [Adopt Open JDV version 11.0.11 or latest](https://adoptopenjdk.net/index.html)
+* [Adopt Open JDK version 11.0.11 or latest](https://adoptopenjdk.net/index.html)
 * [Alternative option is Netbeans](https://netbeans.apache.org) which is popular framework for working with Java Code
  
 
@@ -93,7 +91,7 @@ Software I am using for this project as listed below:
    ```sh
    git clone https://github.com/juniHub/JavaGUI-robot.git
    ```
-2. Click Run on Visual Studio Code
+2. Click Run on Visual Studio Code with built-in Java SDK
 
 
 <!-- ROADMAP -->
