@@ -132,7 +132,7 @@ Project Link: [Java GUI Robot](https://github.com/juniHub/JavaGUI-robot)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/juniHub/JavaGUI-robot.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
+[contributors-url]: https://github.com/juniHub/JavaGUI-robot/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/juniHub/JavaGUI-robot.svg?style=for-the-badge
 [forks-url]: https://github.com/juniHub/JavaGUI-robot/network/members
 [stars-shield]: https://img.shields.io/github/stars/juniHub/JavaGUI-robot.svg?style=for-the-badge
