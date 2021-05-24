@@ -136,9 +136,9 @@ Project Link: [Java GUI Robot](https://github.com/juniHub/JavaGUI-robot)
 [forks-shield]: https://img.shields.io/github/forks/juniHub/JavaGUI-robot.svg?style=for-the-badge
 [forks-url]: https://github.com/juniHub/JavaGUI-robot/network/members
 [stars-shield]: https://img.shields.io/github/stars/juniHub/JavaGUI-robot.svg?style=for-the-badge
-[stars-url]: https://github.comjuniHub/JavaGUI-robot/stargazers
+[stars-url]: https://github.com/juniHub/JavaGUI-robot/stargazers
 [issues-shield]: https://img.shields.io/github/issues/juniHub/JavaGUI-robot.svg?style=for-the-badge
-[issues-url]: https://github.com/gjuniHub/JavaGUI-robot/issues
+[issues-url]: https://github.com/juniHub/JavaGUI-robot/issues
 [license-shield]: https://img.shields.io/github/license/juniHub/JavaGUI-robot.svg?style=for-the-badge
 [license-url]: https://github.com/juniHub/JavaGUI-robot/blob/master/LICENSE.txt
 
